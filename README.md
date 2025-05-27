@@ -26,12 +26,6 @@ Permitir que o usuário controle suas tarefas diretamente pelo terminal, com fun
 - **Geração automática de IDs**
 - **Limpeza de tela:** para melhor experiência no terminal
 
-## 📂 Estrutura esperada
-
-├── todo.py # Código principal da aplicação
-├── tarefas.json # Arquivo gerado com as tarefas
-└── README.md # Este arquivo
-
 ## ▶️ Como Executar
 
 1. **Clone o repositório (ou baixe os arquivos):**
